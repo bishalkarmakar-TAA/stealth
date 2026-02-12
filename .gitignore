@@ -34,6 +34,7 @@ build/
 
 ## env
 src/main/resources/application.properties
+.env
 
 ## mvn w
 .mvn/wrapper
@@ -43,5 +44,3 @@ ors-docker/**
 #data
 python_research/no-use
 python_research/models/data_fetch.py
-python_research/data/city_hour.csv
-.env
