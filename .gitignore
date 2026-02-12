@@ -39,3 +39,7 @@ src/main/resources/application.properties
 .mvn/wrapper
 
 ors-docker/**
+
+#data
+python_research/no-use
+python_research/models/data_fetch.py
